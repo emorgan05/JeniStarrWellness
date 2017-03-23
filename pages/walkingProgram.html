@@ -30,7 +30,7 @@
 				<div class="pull-left">
 					<!-- Logo -->
 					<!-- Name -->
-					<a href="../index.html"><h3>Jeni Starr Wellness</h3></a>
+					<a href="index.html"><img src="images/logo1.jpg"/></a>
 				</div>
 				<div class="pull-right">
 					<!-- navbar -->
